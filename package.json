@@ -1,0 +1,15 @@
+{
+  "name": "exception_desc",
+  "version": "1.0.0",
+  "description": "异常描述",
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
